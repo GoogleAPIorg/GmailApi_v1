@@ -1,0 +1,2 @@
+GET https://www.googleapis.com/gmail/v1/users/vukdukic%40gmail.com/messages/1581aa78ab501fdb?fields=
+historyId%2Cid%2CinternalDate%2ClabelIds%2Cpayload%2Craw%2CsizeEstimate%2Csnippet%2CthreadId&key={YOUR_API_KEY}
